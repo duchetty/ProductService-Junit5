@@ -84,7 +84,7 @@
 					<excludes>
 						<exclude>**/com/jm/entity/**</exclude>
 						<exclude>**/com/jm/ProductServiceApplication.class</exclude>
-						<exclude>**/com/jm/repository/**</exclude>
+						<!--<exclude>**/com/jm/repository/**</exclude>-->
 						<!--<exclude>**/com/jm/service/**</exclude>-->
 					</excludes>
 				</configuration>
